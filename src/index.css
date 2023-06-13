@@ -152,7 +152,7 @@ p {
   text-transform: uppercase;
 }
 .section-title span {
-  color: var(--clr-primary-5);
+  color: red;
 }
 .section-center {
   width: 90vw;
